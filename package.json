@@ -1,9 +1,10 @@
 {
-  "name": "phi-livesolve",
+  "name": "MongDB-Mongoose-Peer",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
+    "test": "nodemon app.js",
     "start": "node app.js"
   },
   "keywords": [],
